@@ -5,8 +5,8 @@ x = ["addition", "multipilcation"]
 print(x)
 
 print("This is for Multiplication:")
-X=99
-Y=100
+x=99
+y=100
 
 print(x*y)
 
